@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
